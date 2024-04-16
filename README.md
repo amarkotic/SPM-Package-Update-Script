@@ -1,5 +1,5 @@
 # SPM-Package-Update-Script
-This script is used to automate version update in modularized iOS projects without having to worry if Xcode will interfere with the process.
+Automate Package version update in modularized iOS projects without having to worry if Xcode will interfere with the process.
 
 ## Table of contents
   * [Usecase](#usecase)
